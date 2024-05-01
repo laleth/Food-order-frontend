@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  height: 100vh;
+  background-image: url("https://screenrant.com/wp-content/uploads/2016/08/Kung-Fu-Panda-Cartoon-Food.jpg");
+  color: black;
+  background-size: cover;
 }
 
 .App-logo {

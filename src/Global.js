@@ -1,0 +1,1 @@
+export const API = "https://food-order-backend-teyo.onrender.com";

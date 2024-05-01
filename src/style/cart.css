@@ -1,0 +1,101 @@
+.cart-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  .back-img{
+    height: 100vh;
+    background-image: url("https://static.vecteezy.com/system/resources/previews/040/140/029/non_2x/ai-generated-generative-ai-frame-of-food-waste-compost-and-soil-environmental-concept-white-background-biodegradable-kitchen-waste-composting-organic-food-photo.jpg");
+    color: black;
+  } 
+  
+  .cart-items {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .cart-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  
+  .cart-item-image {
+    width: 100px;
+    height: 100px;
+    margin-right: 20px;
+    object-fit: cover;
+  }
+  
+  .cart-item-name {
+    margin: 0;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
+  .cart-item-price {
+    margin: 0;
+    font-size: 16px;
+    margin-left: 300px;
+  }
+  
+  .clear-cart-button {
+    position: absolute;
+    top: 60px;
+    right: 5px;
+    padding: 5px 10px;
+    background-color: #f00; 
+    color: #fff; 
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+
+  .cart-item-details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .quantity-controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  .quantity-controls button {
+    margin: 0 5px;
+  }
+
+  .total-container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .total-text {
+    font-size: 18px;
+    margin-right: 20px;
+  }
+  
+  .charge-bill-button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 50px;
+    margin-right: 50px;
+    align-items: center;
+    text-align: center;
+  
+  }
+  
+  .charge-bill-button:hover {
+    background-color: #0056b3;
+  }
+  

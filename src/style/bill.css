@@ -1,0 +1,57 @@
+.bill-container {
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+  }
+  
+  .bill-container h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    font-weight: bold;
+    display: block;
+  }
+  
+  .form-group input,
+  .form-group select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  /* .space {
+    margin-top: 20px;
+  }
+  
+  .space .ant-btn {
+    width: 100%;
+  }
+  
+  .space .ant-btn-primary,
+  .space .ant-btn-danger {
+    background: linear-gradient(90deg, #3f5efb, #8355c7, #b64fa0, #fc466b);
+    border: none;
+  }
+  
+  .space .ant-btn-primary:hover,
+  .space .ant-btn-danger:hover {
+    background: linear-gradient(90deg, #a7b6ff, #b9a4ff, #cd96e6, #ff94e2);
+  }
+  
+  .space .ant-btn-primary:active,
+  .space .ant-btn-danger:active {
+    background: linear-gradient(90deg, #2c48b8, #65468c, #932b63, #d0016b);
+  }
+   */
